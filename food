@@ -1,0 +1,9 @@
+Makefile
+food
+lex.c
+lex.yy.c
+lex.yy.o
+msh
+my_shell.c
+my_shell.o
+test.txt
